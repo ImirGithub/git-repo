@@ -1,4 +1,4 @@
-print("Hello world")
-print("Hello main new")
-print("Hello my dear friend")
-print("Glaid to see you")
+print("Hello world;")
+print("Hello main new;")
+print("Hello my dear friend;")
+print("Glaid to see you;")
